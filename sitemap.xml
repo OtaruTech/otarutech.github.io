@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.stsz.tech/2023/06/17/where-is-linux-memory/</loc>
+    
+    <lastmod>2023-06-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.stsz.tech/2088/12/18/0-blog-introduction/</loc>
     
     <lastmod>2022-12-11</lastmod>
@@ -472,7 +481,7 @@
 
   <url>
     <loc>https://www.stsz.tech/</loc>
-    <lastmod>2022-12-11</lastmod>
+    <lastmod>2023-06-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -480,210 +489,217 @@
   
   <url>
     <loc>https://www.stsz.tech/tags/%E5%86%85%E5%AD%98/</loc>
-    <lastmod>2022-12-11</lastmod>
+    <lastmod>2023-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.stsz.tech/tags/ashmem/</loc>
-    <lastmod>2022-12-11</lastmod>
+    <lastmod>2023-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.stsz.tech/tags/%E5%85%B1%E4%BA%AB%E5%86%85%E5%AD%98/</loc>
-    <lastmod>2022-12-11</lastmod>
+    <lastmod>2023-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.stsz.tech/tags/Android/</loc>
-    <lastmod>2022-12-11</lastmod>
+    <lastmod>2023-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.stsz.tech/tags/ION/</loc>
-    <lastmod>2022-12-11</lastmod>
+    <lastmod>2023-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.stsz.tech/tags/%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86/</loc>
-    <lastmod>2022-12-11</lastmod>
+    <lastmod>2023-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.stsz.tech/tags/Linux/</loc>
-    <lastmod>2022-12-11</lastmod>
+    <lastmod>2023-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.stsz.tech/tags/Thread/</loc>
-    <lastmod>2022-12-11</lastmod>
+    <lastmod>2023-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.stsz.tech/tags/%E7%BA%BF%E7%A8%8B%E6%B1%A0/</loc>
-    <lastmod>2022-12-11</lastmod>
+    <lastmod>2023-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.stsz.tech/tags/%E7%BA%BF%E7%A8%8B%E7%AE%A1%E7%90%86/</loc>
-    <lastmod>2022-12-11</lastmod>
+    <lastmod>2023-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.stsz.tech/tags/kfifo/</loc>
-    <lastmod>2022-12-11</lastmod>
+    <lastmod>2023-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.stsz.tech/tags/RingBuffer/</loc>
-    <lastmod>2022-12-11</lastmod>
+    <lastmod>2023-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.stsz.tech/tags/FIFO/</loc>
-    <lastmod>2022-12-11</lastmod>
+    <lastmod>2023-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.stsz.tech/tags/C-11/</loc>
-    <lastmod>2022-12-11</lastmod>
+    <lastmod>2023-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.stsz.tech/tags/string-view/</loc>
-    <lastmod>2022-12-11</lastmod>
+    <lastmod>2023-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.stsz.tech/tags/C-Tips/</loc>
-    <lastmod>2022-12-11</lastmod>
+    <lastmod>2023-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.stsz.tech/tags/StrSplit/</loc>
-    <lastmod>2022-12-11</lastmod>
+    <lastmod>2023-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.stsz.tech/tags/StrCat/</loc>
-    <lastmod>2022-12-11</lastmod>
+    <lastmod>2023-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.stsz.tech/tags/move/</loc>
-    <lastmod>2022-12-11</lastmod>
+    <lastmod>2023-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.stsz.tech/tags/%E5%88%9D%E5%A7%8B%E5%8C%96/</loc>
-    <lastmod>2022-12-11</lastmod>
+    <lastmod>2023-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.stsz.tech/tags/absl-Span/</loc>
-    <lastmod>2022-12-11</lastmod>
+    <lastmod>2023-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.stsz.tech/tags/bazel/</loc>
-    <lastmod>2022-12-11</lastmod>
+    <lastmod>2023-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.stsz.tech/tags/benchmark/</loc>
-    <lastmod>2022-12-11</lastmod>
+    <lastmod>2023-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.stsz.tech/tags/thread/</loc>
-    <lastmod>2022-12-11</lastmod>
+    <lastmod>2023-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.stsz.tech/tags/chrono/</loc>
-    <lastmod>2022-12-11</lastmod>
+    <lastmod>2023-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.stsz.tech/tags/FastDDS/</loc>
-    <lastmod>2022-12-11</lastmod>
+    <lastmod>2023-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.stsz.tech/tags/DDS/</loc>
-    <lastmod>2022-12-11</lastmod>
+    <lastmod>2023-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.stsz.tech/tags/%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6/</loc>
-    <lastmod>2022-12-11</lastmod>
+    <lastmod>2023-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.stsz.tech/tags/System-Performance/</loc>
-    <lastmod>2022-12-11</lastmod>
+    <lastmod>2023-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.stsz.tech/tags/%E6%80%A7%E8%83%BD%E5%88%86%E6%9E%90/</loc>
-    <lastmod>2022-12-11</lastmod>
+    <lastmod>2023-06-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.stsz.tech/tags/Memory/</loc>
+    <lastmod>2023-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -692,126 +708,126 @@
   
   <url>
     <loc>https://www.stsz.tech/categories/Android/</loc>
-    <lastmod>2022-12-11</lastmod>
+    <lastmod>2023-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.stsz.tech/categories/Android/HIDL/</loc>
-    <lastmod>2022-12-11</lastmod>
+    <lastmod>2023-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.stsz.tech/categories/Android/Ashmem/</loc>
-    <lastmod>2022-12-11</lastmod>
+    <lastmod>2023-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.stsz.tech/categories/Android/ION%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86/</loc>
-    <lastmod>2022-12-11</lastmod>
+    <lastmod>2023-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.stsz.tech/categories/Android/Input%E5%AD%90%E7%B3%BB%E7%BB%9F/</loc>
-    <lastmod>2022-12-11</lastmod>
+    <lastmod>2023-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.stsz.tech/categories/Android/%E6%99%BA%E8%83%BD%E6%8C%87%E9%92%88/</loc>
-    <lastmod>2022-12-11</lastmod>
+    <lastmod>2023-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.stsz.tech/categories/Android/dma-buf/</loc>
-    <lastmod>2022-12-11</lastmod>
+    <lastmod>2023-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.stsz.tech/categories/Linux/</loc>
-    <lastmod>2022-12-11</lastmod>
+    <lastmod>2023-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.stsz.tech/categories/C-Tips-of-the-Week/</loc>
-    <lastmod>2022-12-11</lastmod>
+    <lastmod>2023-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.stsz.tech/categories/C-C/</loc>
-    <lastmod>2022-12-11</lastmod>
+    <lastmod>2023-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.stsz.tech/categories/Linux/C-C/</loc>
-    <lastmod>2022-12-11</lastmod>
+    <lastmod>2023-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.stsz.tech/categories/C/</loc>
-    <lastmod>2022-12-11</lastmod>
+    <lastmod>2023-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.stsz.tech/categories/Linux/Kernel/</loc>
-    <lastmod>2022-12-11</lastmod>
+    <lastmod>2023-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.stsz.tech/categories/FastDDS/</loc>
-    <lastmod>2022-12-11</lastmod>
+    <lastmod>2023-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.stsz.tech/categories/%E7%B3%BB%E7%BB%9F%E6%80%A7%E8%83%BD%E5%88%86%E6%9E%90/</loc>
-    <lastmod>2022-12-11</lastmod>
+    <lastmod>2023-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.stsz.tech/categories/C-C/bazel/</loc>
-    <lastmod>2022-12-11</lastmod>
+    <lastmod>2023-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.stsz.tech/categories/C-C/benchmark/</loc>
-    <lastmod>2022-12-11</lastmod>
+    <lastmod>2023-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.stsz.tech/categories/C/C-11/</loc>
-    <lastmod>2022-12-11</lastmod>
+    <lastmod>2023-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
